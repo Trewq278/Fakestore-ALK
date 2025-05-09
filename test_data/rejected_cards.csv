@@ -1,0 +1,5 @@
+Description,Number,CVC,Date,
+Generic decline,4000000000000002,123,08/28,
+Insufficient funds decline,4000000000009995,123,09/27,
+Lost card decline,4000000000009987,123,09/27,
+Stolen card decline,4000000000009979,234,11/27,
