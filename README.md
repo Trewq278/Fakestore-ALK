@@ -1,5 +1,5 @@
 # Fakestore-ALK
-Projekt testów automatycznych sprawdzających funkcjonalnośći sklepu testelka.fakestore.pl, wykorzystującego Fake Store API.
+Zestaw testów automatycznych dla aplikacji webowej Fakestore-ALK, przygotowany w Pythonie z użyciem **Selenium**, **unittest** oraz **HtmlTestRunner**. Testy pokrywają funkcjonalności stron: konto użytkownika, koszyk, zamówienia i sklep windsurfingowy.
 
 ---
 
@@ -38,9 +38,4 @@ Projekt testów automatycznych sprawdzających funkcjonalnośći sklepu testelka
    
  ## Uruchomienie testów
    ``` bash
-   python run_test.py
-Raport zostanie zapisany w folderze reports/ jako plik HTML.
-
- ## Autor
-Trewq278
-GitHub: github.com/Trewq278 
+   python run_test.py `
