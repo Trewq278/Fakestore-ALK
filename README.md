@@ -37,5 +37,5 @@ Zestaw testów automatycznych dla aplikacji webowej Fakestore-ALK, przygotowany 
    pip3 install html-testRunner
    
  ## Uruchomienie testów
-   ``` bash
+   ```bash
    python run_test.py `
