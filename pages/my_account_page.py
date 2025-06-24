@@ -46,7 +46,7 @@ class MyAccountPage(BasePage):
         """
         Enters invalid username
         """
-        self.driver.find_element(*MyAccountPageLocators.USERNAME_INPUT).send_keys("test@test.pl")
+        self.driver.find_element(*MyAccountPageLocators.USERNAME_INPUT).send_keys("blednylogin@test.pl")
 
     def click_login(self):
         """
